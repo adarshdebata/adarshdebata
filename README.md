@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adarshdebata
-- 👀 I’m interested in App Development,Design UI
+- 👀 I’m interested in Back-end Development
 - 🌱 I’m currently pursuing MCA
 
 <!---
