@@ -1,6 +1,6 @@
 ![logo](https://github.com/adarshdebata/adarshdebata/blob/main/Banner.png)
 <img align = "right" width ="400" src ="https://github.com/adarshdebata/adarshdebata/blob/main/Animation.gif">
-- 🖥️ I'm Passionate Software Developer from India with a keen interest in backend development.
+- 🖥️ I'm Passionate Software Dev with a interest in backend development.
 
 - 🌱 I’m currently learning **node.js**
 
