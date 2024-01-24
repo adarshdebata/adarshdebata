@@ -1,7 +1,6 @@
 ![logo](https://github.com/adarshdebata/adarshdebata/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Adarsh Kumar Debata</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
 <img align = "right" width ="400" src ="https://github.com/adarshdebata/adarshdebata/blob/main/Animation.gif">
+- 🖥️ I'm Passionate Software Developer from India with a keen interest in backend development.
 
 - 🌱 I’m currently learning **node.js**
 
