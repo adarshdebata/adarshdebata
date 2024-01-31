@@ -14,6 +14,7 @@
 
 ### Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to node.js](https://adarshh.hashnode.dev/introduction-to-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
