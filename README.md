@@ -14,6 +14,7 @@
 
 ### Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up a Node.js, Code Editors and Tools](https://adarshh.hashnode.dev/setting-up-a-nodejs-code-editors-and-tools)
 - [Introduction to node.js](https://adarshh.hashnode.dev/introduction-to-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
