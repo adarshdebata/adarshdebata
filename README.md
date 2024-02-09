@@ -14,6 +14,7 @@
 
 ### Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Linux Over Windows](https://adarshh.hashnode.dev/linux-over-windows)
 - [Setting Up node.js](https://adarshh.hashnode.dev/setting-up-a-nodejs-code-editors-and-tools)
 - [Introduction to node.js](https://adarshh.hashnode.dev/introduction-to-nodejs)
 <!-- BLOG-POST-LIST:END -->
