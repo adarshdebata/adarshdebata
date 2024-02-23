@@ -1,6 +1,6 @@
 ![logo](https://github.com/adarshdebata/adarshdebata/blob/main/Banner.png)
 <img align = "right" width ="400" src ="https://github.com/adarshdebata/adarshdebata/blob/main/Animation.gif">
-- 🖥️ I'm Passionate Software Dev with a interest in backend development.
+- 🖥️ I'm a Software Dev with a interest in backend development.
 
 - 🌱  Currently on a skill-farming expedition
 
