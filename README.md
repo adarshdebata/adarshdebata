@@ -2,7 +2,7 @@
 <img align = "right" width ="400" src ="https://github.com/adarshdebata/adarshdebata/blob/main/Animation.gif">
 - 🖥️ I'm Passionate Software Dev with a interest in backend development.
 
-- 🌱 I’m currently learning **node.js**
+- 🌱  Currently on a skill-farming expedition
 
 - 📝 My blogs here [https://hashnode.com/@adarshdebata](https://hashnode.com/@adarshdebata)
 
