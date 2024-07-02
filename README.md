@@ -5,7 +5,7 @@
 ### Hello, I'm Adarsh Debata 👋
 
 - 🖥️ **SDE Intern** with a strong interest in **Backend Development**.
-- 🌱 Currently on a **skill-farming expedition** focused on mastering **Node.js**.
+- 🌱 Currently on a **skill-farming** focused on **Node.js**.
 - 📝 Check out my blogs on [Hashnode](https://hashnode.com/@adarshdebata).
 - 💬 Ask me about **C, Java, JavaScript, HTML5, CSS3**.
 - 📫 Reach me at **adarshdebata00@gmail.com**.
