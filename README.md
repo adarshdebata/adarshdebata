@@ -6,8 +6,7 @@
 
 - 🖥️ **SDE Intern** with a strong interest in **Backend Development**.
 - 🌱 Currently on a **skill-farming** focused on **Node.js**.
-- 📝 Check out my blogs on [Hashnode](https://hashnode.com/@adarshdebata).
-- 💬 Ask me about **C, Java, JavaScript, HTML5, CSS3**.
+- 📝 Check out my blogs on [Hashnode](https://hashnode.com/@adarshdebata)
 - 📫 Reach me at **adarshdebata00@gmail.com**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshdebata&label=Profile%20views&color=0e75b6&style=flat" alt="adarshdebata" /> </p>
