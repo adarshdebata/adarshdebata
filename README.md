@@ -2,18 +2,18 @@
 
 <img align="right" width="400" src="https://github.com/adarshdebata/adarshdebata/blob/main/Animation.gif">
 
-### Hello, I'm Adarsh Debata 👋
+### <img src="https://github.com/adarshdebata/adarshdebata/blob/main/3DLogo.gif" width="30" height="30" />Hello, I'm Adarsh Kumar Debata 👋
 
 - 🖥️ **SDE Intern** with a strong interest in **Backend Development**.
-- 🌱 Currently on a **skill-farming** focused on **Node.js**.
+- 🌟 Learning **Node.js** and **Elasticsearch**.
 - 📝 Check out my blogs on [Hashnode](https://hashnode.com/@adarshdebata)
-- 📫 Reach me at **adarshdebata00@gmail.com**.
+- 📫 Reach me at _adarshdebata00@gmail.com_.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshdebata&label=Profile%20views&color=0e75b6&style=flat" alt="adarshdebata" /> </p>
 
 ---
 
-### 📝 Latest Blogs:
+### 📝 Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Essential JavaScript Cheat Sheet](https://adarshh.hashnode.dev/javascript-essential-concepts-for-nodejs-developers)
 - [Minimalist Web Design](https://adarshh.hashnode.dev/minimalist-web-design)
@@ -24,15 +24,19 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 <p align="left">
-<a href="https://twitter.com/adarsh_debata" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsh_debata" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarsh-kumar-debata" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-kumar-debata" height="30" width="40" /></a>
+  <a href="https://twitter.com/adarsh_debata" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23121011.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/adarsh-kumar-debata" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-### 💻 Tech I Know:
+### 💻 Tech I Know
 
 #### Programming Languages:
 <p align="left">
@@ -54,6 +58,7 @@
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
 </p>
 
 #### Tools & Technologies:
