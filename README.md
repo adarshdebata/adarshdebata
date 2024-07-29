@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://github.com/adarshdebata/adarshdebata/blob/main/Animation.gif">
 
-### <img src="https://github.com/adarshdebata/adarshdebata/blob/main/3DLogo.gif" width="30" height="30" />Hello, I'm Adarsh Kumar Debata 👋
+### Hello, I'm Adarsh Kumar Debata 👋
 
 - 🖥️ **SDE Intern** with a strong interest in **Backend Development**.
 - 🌟 Learning **Node.js** and **Elasticsearch**.
