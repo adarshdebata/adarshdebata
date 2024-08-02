@@ -15,11 +15,11 @@
 
 ### 📝 Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Apache Cassandra](https://adarshh.hashnode.dev/understanding-apache-cassandra)
 - [Essential JavaScript Cheat Sheet](https://adarshh.hashnode.dev/javascript-essential-concepts-for-nodejs-developers)
 - [Minimalist Web Design](https://adarshh.hashnode.dev/minimalist-web-design)
 - [Linux Over Windows](https://adarshh.hashnode.dev/linux-over-windows)
 - [Setting Up node.js](https://adarshh.hashnode.dev/setting-up-a-nodejs-code-editors-and-tools)
-- [Introduction to node.js](https://adarshh.hashnode.dev/introduction-to-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
