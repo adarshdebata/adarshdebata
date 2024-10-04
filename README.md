@@ -4,12 +4,14 @@
 
 ### Hello, I'm Adarsh Kumar Debata 👋
 
-- 🖥️ **SDE Intern** with a strong interest in **Backend Development**.
-- 🌟 Learning **Node.js** and **Elasticsearch**.
+- 🖥️ **Node.js Developer Intern** with a growing passion for **DevOps tooling**.
+- 🌟 Currently **DevOps** tools like **Docker**, **Jenkins**, and **Jira**.
 - 📝 Check out my blogs on [Hashnode](https://hashnode.com/@adarshdebata)
 - 📫 Reach me at _adarshdebata00@gmail.com_.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshdebata&label=Profile%20views&color=0e75b6&style=flat" alt="adarshdebata" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adarshdebata&label=Profile%20views&color=0e75b6&style=flat" alt="adarshdebata" />
+</p>
 
 ---
 
@@ -67,4 +69,7 @@
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
