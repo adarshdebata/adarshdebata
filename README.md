@@ -2,8 +2,8 @@
 
 ## Hello, I'm Adarsh Kumar Debata 👋
 
-- 🖥️ **Node.js Developer Intern** with a growing passion for **DevOps tooling**.
-- 🌟 Currently exploring tools like **Docker**, **Jenkins**, and **Jira**, while honing my backend skills in **Node.js**.
+- 🖥️ **Node.js Developer** with a growing passion for **DevOps tooling**.
+- 🌟 Currently learning tools like **Docker**, **Jenkins**, and **Jira**.
 - 📝 Check out my blogs on [Hashnode](https://hashnode.com/@adarshdebata).
 - 📫 You can reach me at _adarshdebata00@gmail.com_.
 
@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+ <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
 </p>
 
 ### IDEs & Version Control:
