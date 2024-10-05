@@ -19,7 +19,7 @@
 - [Essential JavaScript Cheat Sheet](https://adarshh.hashnode.dev/javascript-essential-concepts-for-nodejs-developers)
 - [Minimalist Web Design](https://adarshh.hashnode.dev/minimalist-web-design)
 - [Linux Over Windows](https://adarshh.hashnode.dev/linux-over-windows)
-- [Setting Up Node.js](https://adarshh.hashnode.dev/setting-up-a-nodejs-code-editors-and-tools)
+- [Setting Up node.js](https://adarshh.hashnode.dev/setting-up-a-nodejs-code-editors-and-tools)
 <!-- BLOG-POST-LIST:END -->
 
 ---
