@@ -4,8 +4,7 @@
 ## Hello, I'm Adarsh Kumar Debata 👋
 
 - 🖥️ **Node.js Developer** with a growing passion for **DevOps tooling**.
-- 🌟 Currently learning tools like **Docker**, **Jenkins**, and **Jira**.
-- 📝 Check out my blogs on [Hashnode](https://hashnode.com/@adarshdebata).
+- 🌟 Currently exploring **FE Development** and **UI/UX**.
 - 📫 You can reach me at _adarshdebata00@gmail.com_.
 
 <p align="left">
