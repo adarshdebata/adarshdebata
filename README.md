@@ -1,5 +1,6 @@
+<!--
 <img align="right" width="400" src="https://github.com/adarshdebata/adarshdebata/blob/main/Animation.gif">
-
+-->
 ## Hello, I'm Adarsh Kumar Debata 👋
 
 - 🖥️ **Node.js Developer** with a growing passion for **DevOps tooling**.
