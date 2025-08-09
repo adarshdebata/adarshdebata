@@ -4,7 +4,6 @@
 ## Hello, I'm Adarsh Kumar Debata 👋
 
 - 🖥️ **Node.js Developer** with a growing passion for **DevOps tooling**.
-- 🌟 Currently exploring **FE Development** and **UI/UX**.
 - 📫 You can reach me at _adarshdebata00@gmail.com_.
 
 <p align="left">
