@@ -1,85 +1,101 @@
-<!--
-<img align="right" width="400" src="https://github.com/adarshdebata/adarshdebata/blob/main/Animation.gif">
--->
-## Hello, I'm Adarsh Kumar Debata 👋
+<div align="center">
 
-- 🖥️ **Node.js Developer** with a growing passion for **DevOps tooling**.
-- 📫 You can reach me at _adarshdebata00@gmail.com_.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Adarsh%20Kumar%20Debata&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Node.js%20Developer%20%C2%B7%20DevOps%20Enthusiast&descAlignY=56&descSize=18" width="100%" alt="header"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adarshdebata&label=Profile%20views&color=0e75b6&style=flat" alt="adarshdebata" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Node.js+Developer;JavaScript+is+my+primary+language;Building+scalable+backend+systems;Exploring+DevOps+tooling+every+day" alt="Typing SVG"/>
+</a>
 
----
+<br/>
 
-## 📝 Latest Blogs
-<!-- BLOG-POST-LIST:START -->
-- [Introduction To System Design](https://adarshh.hashnode.dev/introduction-to-system-design)
-- [Understanding Apache Cassandra](https://adarshh.hashnode.dev/understanding-apache-cassandra)
-- [Essential JavaScript Cheat Sheet](https://adarshh.hashnode.dev/javascript-essential-concepts-for-nodejs-developers)
-- [Minimalist Web Design](https://adarshh.hashnode.dev/minimalist-web-design)
-- [Linux Over Windows](https://adarshh.hashnode.dev/linux-over-windows)
-<!-- BLOG-POST-LIST:END -->
+<img src="https://komarev.com/ghpvc/?username=adarshdebata&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/adarshdebata?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D1117" alt="followers"/>
 
----
+<br/>
+<br/>
 
-## 🌐 Connect with me
-<p align="left">
-  <a href="https://twitter.com/adarsh_debata" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%23121011.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/adarsh-kumar-debata" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/adarsh-kumar-debata" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/adarsh_debata" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:adarshdebata00@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://adarshdebata.github.io/npm-to-pnpm-migration/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-764BA2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+</a>
+
+</div>
 
 ---
 
-## 💻 Tech I Know
+## 👨‍💻 About Me
 
-### Programming Languages:
-<p align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+- 🟢 **Node.js Developer** writing clean, modular **JavaScript** for scalable backend systems.
+- ⚙️ Growing into **DevOps tooling** — containers, pipelines, and automation.
+- ✍️ I write about the things I learn. New articles are landing on my personal blog.
+- 📫 Reach me at **adarshdebata00@gmail.com**.
 
-### Web Development:
-<p align="left">
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</p>
+---
 
-### Databases:
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-</p>
+## 🛠️ Tech Stack
 
-### DevOps & Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
- <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-</p>
+<div align="center">
 
-### IDEs & Version Control:
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-</p>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,java,c&theme=dark" alt="languages"/>
 
-### Testing Frameworks:
-<p align="left">
-  <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-  <img src="https://img.shields.io/badge/Supertest-%23FF6C37.svg?style=for-the-badge&logo=supertest&logoColor=white" alt="Supertest"/>
-  <img src="https://img.shields.io/badge/Playwright-%232496ED.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-</p>
+**Backend &amp; Web**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,html,css&theme=dark" alt="backend and web"/>
+
+**Databases**  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch&theme=dark" alt="databases"/>
+
+**DevOps &amp; Tools**  
+<img src="https://skillicons.dev/icons?i=docker,jenkins,jira,postman,swagger&theme=dark" alt="devops and tools"/>
+
+**Version Control &amp; IDEs**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="version control and ides"/>
+
+**Testing**  
+<img src="https://skillicons.dev/icons?i=jest&theme=dark" alt="testing"/>
+&nbsp;<img src="https://img.shields.io/badge/Supertest-3DDC84?style=for-the-badge&logo=node.js&logoColor=white" alt="Supertest"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshdebata&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0D1117" alt="github stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdebata&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0D1117" alt="top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=adarshdebata&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak stats"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshdebata&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
+
+</div>
+
+---
+
+## ✍️ Latest Writing
+
+- 📦 [Migrating from npm to pnpm](https://adarshdebata.github.io/npm-to-pnpm-migration/)
+
+> 🚧 A full personal blog page is on the way — more articles coming soon.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:667EEA&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
