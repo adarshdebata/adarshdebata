@@ -70,6 +70,30 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 
 ---
 
+## Side Projects
+
+### Balaji Tour &amp; Travel Line &nbsp;·&nbsp; Freelance Website for a Travel Operator
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap"/>
+</p>
+
+[Live site](https://balajitourandtravelline.com) · source private (client work)
+
+**Requirement:** a mobile-first site for a Delhi-based Tempo Traveller and coach rental business — bookings over WhatsApp only (no accounts, KYC or online payments), search-friendly pages, and hosting that costs nothing to run.
+
+- Static Next.js site on Cloudflare's free static hosting — no server code, database or API keys.
+- WhatsApp booking form that pre-fills pickup and drop (with map pins), road distance and the chosen vehicle, using open OpenStreetMap services.
+- Fleet, destinations and gallery pages; gallery photos come from a shared Google Drive folder at build time.
+- Scope: testimonials are static content (no user-feedback feature) and fares are confirmed manually on WhatsApp.
+
+---
+
 ## Tech Stack
 
 <div align="left">
@@ -78,10 +102,17 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 
 **Backend**  
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+
+**Frontend &amp; Hosting**  
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 
 **Databases**  
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
