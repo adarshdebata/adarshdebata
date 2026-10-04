@@ -37,9 +37,13 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 
 ## Featured Projects
 
-### Payout Composer &nbsp;·&nbsp; Wallet-to-Bank Payout Microservice
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
+### 💸 Payout Composer
+<sub><b>Wallet-to-Bank Payout Microservice</b></sub>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
 <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
@@ -47,14 +51,16 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/GCP%20Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP Pub/Sub"/>
-</p>
 
 - Architected a real-time wallet-to-bank payout service.
 - Designed a resilient transaction pipeline with per-step error isolation and dedicated recovery paths (reversal, refund, reconciliation) so funds are never lost or double-moved.
 
-### Bulk Payout Microservice &nbsp;·&nbsp; Batch Transaction Processing
+</td>
+<td width="50%" valign="top">
 
-<p>
+### 📦 Bulk Payout Microservice
+<sub><b>Batch Transaction Processing</b></sub>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
 <img src="https://img.shields.io/badge/GCP%20Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP Pub/Sub"/>
@@ -62,35 +68,42 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-</p>
 
 - Built an event-driven service that validates, enriches, and dispatches bulk payout batches of up to 5,000 transactions, publishing each asynchronously to Google Cloud Pub/Sub.
 - Implemented end-to-end idempotency and de-duplication with Redis, plus a multi-stage validation pipeline (auth, schema, file, and business-rule checks) with encrypted service-to-service payloads.
 - Automated success/failure reporting to Cloud Storage, organized by batch for auditability; containerized and deployed through CI/CD across multiple environments.
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## Side Projects
 
-### Balaji Tour &amp; Travel Line &nbsp;·&nbsp; Freelance Website for a Travel Operator
+<table>
+<tr>
+<td valign="top">
 
-<p>
+### 🚌 Balaji Tour &amp; Travel Line
+<sub><b>Freelance website for a Delhi-based travel operator</b> · <a href="https://balajitourandtravelline.com">Live site</a> · source private (client work)</sub>
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap"/>
-</p>
 
-[Live site](https://balajitourandtravelline.com) · source private (client work)
+**Requirement:** a mobile-first site for a Tempo Traveller and coach rental business — bookings over WhatsApp only (no accounts, KYC or online payments) and search-friendly pages.
 
-**Requirement:** a mobile-first site for a Delhi-based Tempo Traveller and coach rental business — bookings over WhatsApp only (no accounts, KYC or online payments), search-friendly pages, and hosting that costs nothing to run.
-
-- Static Next.js site on Cloudflare's free static hosting — no server code, database or API keys.
 - WhatsApp booking form that pre-fills pickup and drop (with map pins), road distance and the chosen vehicle, using open OpenStreetMap services.
 - Fleet, destinations and gallery pages; gallery photos come from a shared Google Drive folder at build time.
 - Scope: testimonials are static content (no user-feedback feature) and fares are confirmed manually on WhatsApp.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -148,12 +161,17 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshdebata&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0D1117" alt="github stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdebata&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0D1117" alt="top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adarshdebata&show_icons=true&hide_border=true&hide_rank=true&hide=issues,contribs&include_all_commits=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0D1117" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdebata&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0D1117" alt="Most used languages"/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=adarshdebata&hide_border=true&background=0D1117&stroke=30363D&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshdebata&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
+<!-- Contribution snake, regenerated daily by .github/workflows/snake.yml into the "output" branch. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshdebata/adarshdebata/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshdebata/adarshdebata/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/adarshdebata/adarshdebata/output/github-snake-dark.svg" width="100%" alt="Contribution graph animation"/>
+</picture>
 
 </div>
 
