@@ -179,9 +179,13 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 
 ## Writing
 
-- [Migrating from npm to pnpm](https://adarshdebata.github.io/npm-to-pnpm-migration/)
+Latest from [Dev Ledger](https://adarshdebata.github.io/dev-ledger/), my engineering blog:
 
-A full personal blog page is in progress — more articles coming soon.
+<!-- BLOG-POST-LIST:START -->
+- [Your Browser Just Blocked Your Request. Why?](https://adarshdebata.github.io/dev-ledger/posts/your-browser-blocked-your-request/)
+<!-- BLOG-POST-LIST:END -->
+
+- [Migrating from npm to pnpm](https://adarshdebata.github.io/npm-to-pnpm-migration/)
 
 ---
 

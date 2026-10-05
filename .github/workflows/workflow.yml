@@ -1,17 +1,23 @@
+# Fills the "Writing" section of README.md (between the BLOG-POST-LIST markers)
+# with the latest articles from the Dev Ledger RSS feed.
 name: Latest blog post workflow
+
 on:
- schedule: # Run workflow automatically
-   # This will make it run every hour
-   - cron: '0 0 * * *' 
-  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
- workflow_dispatch: 
+  schedule:
+    - cron: "0 0 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
- update-readme-with-blog:
-   name: Update this repo's README with latest blog posts
-   runs-on: ubuntu-latest
-   steps:
-     - uses: actions/checkout@v2
-     - uses: gautamkrishnar/blog-post-workflow@master
-       with:
-         # Replace this URL with your rss feed URL/s
-         feed_list: "https://adarshh.hashnode.dev/rss.xml"
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://adarshdebata.github.io/dev-ledger/rss.xml"
+          max_post_count: 5
+          commit_message: "Update Writing section with the latest Dev Ledger posts"
