@@ -33,6 +33,8 @@
 
 Backend developer focused on **Node.js** and **event-driven microservices** for fintech and digital-payments platforms. I work across distributed datastores, message queues, and resilient transaction pipelines — building systems where correctness and safe failure handling matter. **JavaScript** is my primary language.
 
+🚧 Currently building **[NeelPath](https://neelpath.onrender.com)**, a full-stack cab booking platform for journeys across India (more under [Side Projects](#side-projects)).
+
 ---
 
 ## Featured Projects
@@ -85,6 +87,32 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 <tr>
 <td valign="top">
 
+### 🚕 NeelPath
+<sub><b>Freelance cab booking platform for journeys across India</b> · <a href="https://neelpath.onrender.com">Live site</a> · source private · in active development</sub>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Vite-9135FF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white" alt="MapLibre"/>
+<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap"/>
+<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render"/>
+
+**Requirement:** book one-way, round-trip, airport, local-rental and multi-day trips anywhere in India, with the full fare shown upfront and payment by UPI, plus a console for the team to run bookings, fleet, drivers and pricing.
+
+- Journey planner on a MapLibre map with real road routes, multi-stop trips, stops suggested along the way and the airports nearest the journey.
+- Server-side fare engine with versioned pricing rules per cab type (per km, daily minimum, driver allowance, night charge, local packages, GST) and fixed-price tour packages; the browser never sends a price.
+- Booking lifecycle from request to approval, UPI QR payment, ticket and rating, with idempotent booking requests and private, token-protected trip links.
+- Role-based admin console with an activity log, on a hardened API (httpOnly cookies, CSP, origin checks, rate limits, Zod validation) covered by Vitest + Supertest suites and Playwright end-to-end tests on desktop and mobile.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 ### 🚌 Balaji Tour &amp; Travel Line
 <sub><b>Freelance website for a Delhi-based travel operator</b> · <a href="https://balajitourandtravelline.com">Live site</a> · source private (client work)</sub>
 
@@ -125,7 +153,9 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Vite-9135FF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 
 **Databases**  
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -150,6 +180,7 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
 <img src="https://img.shields.io/badge/Supertest-2D2D2D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Supertest"/>
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
 
