@@ -213,6 +213,9 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 Latest from [Dev Ledger](https://adarshdebata.github.io/dev-ledger/), my engineering blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [DNS: How a Name Becomes an Address &lpar;and When It Lies&rpar;](https://adarshdebata.github.io/dev-ledger/posts/dns-how-a-name-becomes-an-address/)
+- [One Request, Seven Stops: What Happens After You Press Enter](https://adarshdebata.github.io/dev-ledger/posts/one-request-seven-stops/)
+- [You Installed Helmet. What Did It Actually Change?](https://adarshdebata.github.io/dev-ledger/posts/you-installed-helmet/)
 - [Your Browser Just Blocked Your Request. Why?](https://adarshdebata.github.io/dev-ledger/posts/your-browser-blocked-your-request/)
 <!-- BLOG-POST-LIST:END -->
 
