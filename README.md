@@ -213,10 +213,11 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 Latest from [Dev Ledger](https://adarshdebata.github.io/dev-ledger/), my engineering blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [127.0.0.1 vs 0.0.0.0: Why It Works Locally but Not in Docker](https://adarshdebata.github.io/dev-ledger/posts/127-0-0-1-vs-0-0-0-0/)
+- [HTTP Headers: The Conversation Inside Every Request](https://adarshdebata.github.io/dev-ledger/posts/http-headers-the-conversation/)
+- [TCP &amp; TLS: The Handshakes Before Your First Byte](https://adarshdebata.github.io/dev-ledger/posts/tcp-and-tls-handshakes/)
 - [DNS: How a Name Becomes an Address &lpar;and When It Lies&rpar;](https://adarshdebata.github.io/dev-ledger/posts/dns-how-a-name-becomes-an-address/)
 - [One Request, Seven Stops: What Happens After You Press Enter](https://adarshdebata.github.io/dev-ledger/posts/one-request-seven-stops/)
-- [You Installed Helmet. What Did It Actually Change?](https://adarshdebata.github.io/dev-ledger/posts/you-installed-helmet/)
-- [Your Browser Just Blocked Your Request. Why?](https://adarshdebata.github.io/dev-ledger/posts/your-browser-blocked-your-request/)
 <!-- BLOG-POST-LIST:END -->
 
 - [Migrating from npm to pnpm](https://adarshdebata.github.io/npm-to-pnpm-migration/)
