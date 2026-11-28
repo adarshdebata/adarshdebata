@@ -213,11 +213,11 @@ Backend developer focused on **Node.js** and **event-driven microservices** for 
 Latest from [Dev Ledger](https://adarshdebata.github.io/dev-ledger/), my engineering blog:
 
 <!-- BLOG-POST-LIST:START -->
-- [127.0.0.1 vs 0.0.0.0: Why It Works Locally but Not in Docker](https://adarshdebata.github.io/dev-ledger/posts/127-0-0-1-vs-0-0-0-0/)
-- [HTTP Headers: The Conversation Inside Every Request](https://adarshdebata.github.io/dev-ledger/posts/http-headers-the-conversation/)
-- [TCP &amp; TLS: The Handshakes Before Your First Byte](https://adarshdebata.github.io/dev-ledger/posts/tcp-and-tls-handshakes/)
-- [DNS: How a Name Becomes an Address &lpar;and When It Lies&rpar;](https://adarshdebata.github.io/dev-ledger/posts/dns-how-a-name-becomes-an-address/)
-- [One Request, Seven Stops: What Happens After You Press Enter](https://adarshdebata.github.io/dev-ledger/posts/one-request-seven-stops/)
+- [Your Fix Is Live. Why Do Users Still See the Old Version?](https://adarshdebata.github.io/dev-ledger/posts/why-users-see-the-old-version/)
+- [Your Load Balancer Is Working. So Why Is One Server Doing All the Work?](https://adarshdebata.github.io/dev-ledger/posts/load-balancer-one-busy-server/)
+- [502 Bad Gateway: Who Is the Gateway, and What Went Bad?](https://adarshdebata.github.io/dev-ledger/posts/502-bad-gateway/)
+- [Your App Works with npm. Why Does It Break with pnpm?](https://adarshdebata.github.io/dev-ledger/posts/npm-works-pnpm-breaks/)
+- [It Worked Yesterday. What Does Your Lockfile Actually Lock?](https://adarshdebata.github.io/dev-ledger/posts/what-your-lockfile-locks/)
 <!-- BLOG-POST-LIST:END -->
 
 - [Migrating from npm to pnpm](https://adarshdebata.github.io/npm-to-pnpm-migration/)
